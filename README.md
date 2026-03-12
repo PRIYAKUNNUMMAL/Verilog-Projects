@@ -39,7 +39,3 @@ The projects are simulated using:
 * **GTKWave**
 
 ---
-# License
-
-This repository is licensed under the **MIT License**.
-
